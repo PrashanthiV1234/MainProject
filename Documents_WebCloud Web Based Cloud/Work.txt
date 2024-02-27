@@ -1,0 +1,144 @@
+﻿Cloud Service Provider
+----------
+Login,
+View and Authorize Users,
+
+View and Authorize Owners,
+
+View Files,
+
+View All Search Transactions,
+
+View All File Transactions,
+
+View All Top Searched,
+
+View Attackers, 
+
+Search Requests,
+
+View Time Delay,
+
+View Throughput.
+
+
+Data Owner
+-----------
+
+Register and Login,
+Attackers,
+
+Upload File,
+
+View Files,
+
+Verify data(Verifiability),
+
+View and Delete Files,
+
+View All Transactions.
+
+
+User
+--------
+
+Register and Login,
+My Profile,
+
+View Files, 
+
+Search Files,
+
+Search Ratio,
+
+Top K Search, 
+
+Req Search Control.
+
+
+
+PKG
+----
+Login,
+View Files and Generate Key.
+
+
+
+
+Members
+---------
+ID, 
+File Name,  
+Index,  
+Contents, 
+MAC, 
+Rank,  
+Date & Time, 
+DATA OWNER, 
+Secret Key. 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
